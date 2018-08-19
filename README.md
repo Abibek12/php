@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 Hello! i am Bibek Chowdhury
-Malda College(BCA)
+,Malda College(BCA)
 
 ### Skill
 
